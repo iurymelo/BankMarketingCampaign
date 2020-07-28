@@ -1,10 +1,9 @@
 # Bank Marketing Campaign
 <p align="center">
-  <a href="https://www.youracclaim.com/badges/a78eec88-8a69-43fb-8d1a-c0afe6cf2233/public_url" rel="Badge">![Badge](https://i.imgur.com/8at4RP2.png)</a>
+  <a href="https://www.youracclaim.com/badges/a78eec88-8a69-43fb-8d1a-c0afe6cf2233/public_url" rel="Badge"><img src="https://i.imgur.com/8at4RP2.png"></a>
+  <a href="https://coursera.org/share/6cf953584607f1958e76b02bf9d0355e" rel="Certificado"><img src="https://i.imgur.com/azNfrak.png"></a>  
 </p>
-<p align="center">
-  <a href="https://coursera.org/share/6cf953584607f1958e76b02bf9d0355e" rel="Certificado">![Certificado](https://i.imgur.com/azNfrak.png)</a>
-</p>
+
 ## Improving Return Rate from Marketing Calls
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Version: Python](https://img.shields.io/badge/Python-3.6.0-blue)](https://www.python.org/downloads/) 
 
